@@ -8,14 +8,16 @@ They are also able to understand and recognize classes of software systems, engi
 In a sense, students are ready to apply state-of-the-art techniques for engineering software -- now and in the upcoming years!
 
 Tools and languages like Xtext, Xtend, EMF, FAMILIAR are used to make it practical. 
-We illustrate the course with a running project, VideoGen, a configurable generator of generators of video variants.  
+We illustrate the course with a running example, VideoGen, a configurable generator of generators of video variants.  
+
+The running project will be *multi machine learning (aka MML), a language for performing machine learning tasks in a few lines of code*.
 
 ## Agenda 
 
-* domain-specific languages (DSL) -- DSLs.pdf
+* domain-specific languages (DSL) -- DSL.pdf
 * external DSLs and Xtext -- DSLXtext.pdf
-* metamodeling and EMF -- ModelManagementXtend1.pdf 
-* model transformation-- ModelManagementXtend1.pdf 
+* metamodeling and EMF -- ModelManagement1.pdf 
+* model transformation-- ModelManagement1.pdf 
 * meta-programming, annotations, advanced compositions -- ModelManagementXtend2.pdf 
 * Xtend, a modern programming language implemented with MDE principles (Xtext included) -- ModelManagementXtend2.pdf
 * variability modeling -- SPLVariability-light.pdf 
@@ -23,32 +25,31 @@ We illustrate the course with a running project, VideoGen, a configurable genera
 
 ## Evaluation 
 
-* 33% (project)
-* 66% (partiel) 
+* 1/3 (project)
+* 2/3 (partiel) 
 
 ## Lab sessions 
 
 * 2 TDs 
-   * TD1: https://docs.google.com/document/d/1y9beZJ1G7KmpnN8fcxWyGYo3vZJ3GimK0jXLs2CKwbA/edit?usp=sharing
+   * TD1: https://docs.google.com/document/d/18KzZbwA7G21Nbc1V3TdwOLD-HUmjDMkMf-qGRq6NEZM/edit?usp=sharing
    * TD2: [Partiel 2016](https://github.com/acherm/teaching-MDE-MIAGE1718/blob/master/ExamIDM16.pdf) 
 * 6 TPs
-  * TP1: Xtext, first steps with VideoGen https://docs.google.com/document/d/1iOYV0QQhjJzDfKvItOrmvHrI53ICHH-oCk_kzz9Vty4/edit?usp=sharing
-  * TP2: Model transformation, let's play video variants! https://docs.google.com/document/d/1GgyLtAui1RzeacCBo_jSVAgAMYG0VsZobdiR6iaSOv0/edit?usp=sharing
-  * TP3: Model transformation, data analysis 
- https://docs.google.com/document/d/1pPelclSCb7AWTqpRacObR7jep9MzjCLQcjHh-ftjnVs/edit?usp=sharing
-  * TP4: test, refactoring, and continuing https://docs.google.com/document/d/1Ll3AAMWFzNWlgwxwHmcmOmeNO1Y0z_46PxJStDGeIXI/edit?usp=sharing
-  * TP5/TP6/projet: TP* (putting all together) https://docs.google.com/document/d/1_PBrBHf9irX9g8LcRIlRNAVC08lXCZNp3w8dWrpFIPg/edit?usp=sharing
+  * TP1+TP2: design of MML and first steps with Xtext 
+  * TP3: model transformation, let's write our first compiler 
+  * TP4: model transformation, compilers and execution, automated testing
+  * TP5/TP6/projet: TP* (putting all together) 
 
 
 ## Exercices/Homework 
 
-Project: VideoGen (incl. 4 lab sessions)
+Project: MML (incl. 4 lab sessions)
 
 ## Resources 
 
-Eclipse/Xtext: https://eclipse.org/downloads/eclipse-packages/ (Eclipse IDE for Java and DSL Developers)
+Eclipse/Xtext: https://eclipse.org/downloads/eclipse-packages/ (**Eclipse IDE for Java and DSL Developers**)
 
 * see "slides" folder of this repo (the updloads of slides will follow the progress of the courses)
+* Resources used for the IDM course in 2018-2019: https://github.com/acherm/teaching-MDEIL1819
 * Resources used for the IDM course in 2017-2018: https://github.com/acherm/teaching-MDE1718
 * Resources used for the IDM course in 2016-2107: https://github.com/acherm/teaching-MDE1617
 * JOOQ and SQL: https://github.com/acherm/teaching-MDE1617/wiki/JOOQ-homework

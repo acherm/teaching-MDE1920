@@ -46,8 +46,8 @@ accuracy = mean_squared_error(y_test, clf.predict(X_test))
 
 print(accuracy)
 
-# scikit-learn accuracy_score :
-#     https://scikit-learn.org/stable/modules/generated/sklearn.metrics.accuracy_score.html
+# scikit-learn mean_squared_error :
+#     https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_squared_error.html
 # Other scikit-learn metrics :
 #     https://scikit-learn.org/stable/modules/classes.html#module-sklearn.metrics
 

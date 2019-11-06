@@ -41,7 +41,7 @@ The running project will be *multi machine learning (aka MML), a language for pe
   * TP3: deisgn of MML and multiple targets https://docs.google.com/document/d/1gmqBMGqJo5HD3A-qRIRJcPL8pPH6wNyvFTfwLd9NcbM/edit?usp=sharing
   * TP4: model transformation, let's write our first compiler https://docs.google.com/document/d/1ZWBQg46fM8kJqnjQ-gyjDiZa7fyUVYeUzXCx4GBLoqw/edit?usp=sharing 
   * TP5: model transformation, compilers and execution, automated testing https://docs.google.com/document/d/1TsAGFGSdbxPMTUwtZeTZu8IrmmgMNDgXwbkONat4B2I/edit?usp=sharing
-  * TP5/TP6/projet: TP* (putting all together) 
+  * TP5/TP6/projet: TP* (putting all together) https://docs.google.com/document/d/1U5MhOKd-lLpD-J4ExYgiCu3Iz7nTa8LuwsXgTAGCgMA/edit?usp=sharing
 
 
 ## Exercices/Homework 
